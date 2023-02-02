@@ -1,0 +1,21 @@
+
+.inicio h1 {
+    font-size:4rem;
+    margin-top: 60px;
+    position: fixed;
+}
+.inicio p {
+    font-size: 16px;
+    margin-bottom: 1.5em;
+    line-height: 1.4em;
+}
+.inicio iframe {
+    padding-top: 50px;
+    margin-top: 2rem;
+    margin-left: 50rem;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    
+    
+}
